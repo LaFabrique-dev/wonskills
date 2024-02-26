@@ -1,12 +1,12 @@
 modLoader="javafml"
 loaderVersion="[${loader_version},)"
-license="All rights reserved"
+license="Apache-2 by World of Nations"
 
 [[mods]]
 modId="won_skills"
 version="${mod_version}"
 displayName="WoN Skills"
-authors="St0x0ef"
+authors="World of Nations Team"
 
 description='''Skills for World of Nations'''
 
