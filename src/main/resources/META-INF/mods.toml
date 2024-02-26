@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[${loader_version},)"
+license="All rights reserved"
+
+[[mods]]
+modId="won_skills"
+version="${mod_version}"
+displayName="WoN Skills"
+authors="St0x0ef"
+
+description='''Skills for World of Nations'''
+
+[[dependencies.won_skills]]
+    modId="forge"
+    mandatory=true
+    versionRange="[${forge_version},]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.won_skills]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[${mc_version}]"
+    ordering="NONE"
+    side="BOTH"
